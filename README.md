@@ -1,5 +1,5 @@
 
-[App Detail](https://react-01-birthday-project.netlify.app/)
+### [App Detail](https://react-01-birthday-project.netlify.app/)
 
 ### I made John Similga's [Birthday](https://react-projects-1-birthday-reminder.netlify.app/) project in this react project. 
 
